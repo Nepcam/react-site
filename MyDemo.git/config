@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = true
-	ignorecase = true
-[remote "origin"]
-	url = https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/MyDemo
-	fetch = +refs/*:refs/*
-	mirror = true
