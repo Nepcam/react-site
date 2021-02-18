@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the Adventure newsletter to receive our best vacation deals
+          Get the latest Car Insurance information from the car experts.  It’s quick, easy and affordable.
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -39,7 +39,7 @@ function Footer() {
             <h2>Contact Us</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
+            <Link to='/'>Locations</Link>
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              CAMS
-              <i class='fas fa-plane-departure' />
+              Turners
+              <i class='fas fa-car' />
             </Link>
           </div>
-          <small class='website-rights'>CAMS © 2021</small>
+          <small class='website-rights'>CAM & ROSHAN © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
